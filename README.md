@@ -9,7 +9,7 @@
 
 # 💡​Languages e Tools
 <div>
- <i class="devicon-threedsmax-plain colored"></i>
+
           
           
 
@@ -28,8 +28,8 @@
 
 <div>
 <a href="https://github.com/EveRiveros">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?EveRiveros&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?EveRiveros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EveRiveros&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EveRiveros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
           
